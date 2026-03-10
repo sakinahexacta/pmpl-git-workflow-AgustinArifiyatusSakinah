@@ -15,9 +15,14 @@ $title = "Git Workflow Simulation";
 
     <h1><?php echo $title; ?></h1>
 
-    <p>Selamat datang di praktikum Git Workflow.</p>
+    <p>Halo Guys Welcome Back To My Channel
+    </p>
 
     <button onclick="showMessage()">Klik Saya</button>
+
+    <button onclick="showMessage()">Klik Latihan</button>
+
+    <button onclick="showMessage()">Mulai!</button>
 
     <script src="script.js"></script>
 </body>
