@@ -1,7 +1,7 @@
 /* Git Workflow Simulation Styles */
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #22c0bb;
     background-image:url('together.png');
     text-align: center;
