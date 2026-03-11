@@ -6,4 +6,10 @@ function showMessage() {
 
 console.log("Git Workflow Simulation loaded.");
 
+function showMessageTes() {
+    alert("Semangat mengerjakan soal-soal! Kamu pasti bisa!");
+}
+
+console.log("Git Workflow Test loaded.");
+
 
