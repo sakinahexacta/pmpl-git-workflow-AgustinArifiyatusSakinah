@@ -1,8 +1,9 @@
 /* Git Workflow Simulation Styles */
 
 body {
-    font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #22c0bb;
+    background-image:url('together.png');
     text-align: center;
     margin-top: 50px;
 }
@@ -16,3 +17,4 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
