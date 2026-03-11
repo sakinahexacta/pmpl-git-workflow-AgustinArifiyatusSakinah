@@ -2,12 +2,16 @@
 
 function showMessage() {
     alert("Selamat menjalani praktikum Git Workflow! SEMANGAT!");
+    document.querySelector('h1').textContent = "Git Workflow Simulation";
+    document.querySelector('p').textContent = "Halo Guys Welcome Back To My Channel";
 }
 
 console.log("Git Workflow Simulation loaded.");
 
 function showMessageTes() {
     alert("Semangat mengerjakan soal-soal! Kamu pasti bisa!");
+    document.querySelector('h1').textContent = "Git Workflow Simulation";
+    document.querySelector('p').textContent = "Halo Guys Welcome Back To My Channel";
 }
 
 console.log("Git Workflow Test loaded.");
