@@ -12,4 +12,9 @@ function showMessageTes() {
 
 console.log("Git Workflow Test loaded.");
 
+function changeTitle() {
+    document.querySelector('h1').textContent = "Materi Git Workflow";
+    document.querySelector('p').textContent = "Silahkan pelajari materi Git Workflow dengan seksama untuk memahami konsep dan praktiknya.";
+}
+
 
